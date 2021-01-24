@@ -13,4 +13,4 @@ HTML5 and CSS3
 ## Result
 
 > ### See the result live [here](https://codepen.io/Luskinha/full/) 
-[![codepen.io](https://github.com/Lusk1nha/profile-card-component/blob/master/static/assets/profile-card-component.png)](https://codepen.io/Luskinha/full/)
+[![codepen.io](https://github.com/Lusk1nha/profile-card-component/blob/master/src/assets/profile-card-component.png)](https://codepen.io/Luskinha/full/)
